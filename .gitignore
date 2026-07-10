@@ -1,0 +1,18 @@
+# Dependencies
+app/node_modules/
+
+# Build output
+app/dist/
+app/.output/
+app/.nitro/
+
+# Local deploy state
+.vercel/
+app/.vercel/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
