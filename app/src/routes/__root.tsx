@@ -1,7 +1,7 @@
 import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
 import appCss from '../styles.css?url'
 
-const siteUrl = 'https://les-moines-test-site.vercel.app/'
+const siteUrl = 'https://les-moines-test-site-preview.vercel.app/'
 
 const jsonLd = {
   '@context': 'https://schema.org',
